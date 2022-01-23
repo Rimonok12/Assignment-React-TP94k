@@ -1,0 +1,49 @@
+    body {
+        background: linear-gradient(120deg, rgb(236, 245, 111) 0%, rgb(121, 238, 232) 35%, rgb(85, 235, 177) 100%);
+        /* background-image: url("https://cdn.wallpapersafari.com/52/63/TLNXMD.jpg"); */
+        background-size: cover;
+    }
+    
+    .heading-1 {
+        cursor: pointer;
+        text-align: center;
+        text-decoration: wavy;
+    }
+    
+    .heading-1:hover {
+        color: rgb(255, 255, 255);
+    }
+    
+    .ifr {
+        border-radius: 3%;
+        border: none;
+    }
+    
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+    
+    td,
+    th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+    
+    .anchor {
+        border: 1px solid rgb(46, 187, 76);
+    }
+    
+    .img1 {
+        height: 323px;
+        width: 540px;
+    }
+    /* .form1 {
+        text-align: center;
+    } */
